@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project for the course Introduction to Computational Biology at the University of Antwerp, 2018-2019. In this project we built compartmental models (SEIRZ, SEISZ) for the spread of a disease inside a population of amphibians. Afterwards we evaluated a number of mitigation measures using the previously built models. This was documented in a [paper](../main/COMPBIO19_proposal_KaLoWi.pdf). Regarding the supplied code: note that the GPLv3 license applies.
+Project for the course Introduction to Computational Biology at the University of Antwerp, 2018-2019. In this project we built compartmental models (SEIRZ, SEISZ) for the spread of a disease inside a population of amphibians. Afterwards we evaluated a number of mitigation measures using the previously built models. This was documented in a [paper](../main/COMPBIO19_proposal_KaLoWi.pdf). Regarding the supplied code: note that the GPLv3 (or later version) license applies.
 
 ## Sources
 
